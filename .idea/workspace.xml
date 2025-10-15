@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fa2ba293-96cd-4f14-a1bd-27ea0dece816" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/numpy_course/array_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy_course/inspecting_array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/py_da.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/py_da.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/area_of_square.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ascii.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/circle_area_circumference.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dict_problems.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/even_odd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/factorial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fibonacci_series.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/for_loop_10_1_series.cpp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/for_loop_1_10_even_add.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/for_loop_1_10_even_digit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/for_loop_1_10_series.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/for_loop_1_to_N_sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/for_loop_digit_and_square.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/for_loop_nested.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/for_loop_pattern.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/for_loop_pattern2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/for_loop_pattern3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/for_loop_pattern4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/for_loop_pattern5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/if-else.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lambda_anonymous.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list_problems.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/local_global_var.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nested_loop_shopping_app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prime.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursion_func.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rfind_rindex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sets_problems.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/string_isalnum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/string_slice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/while_1_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/while_loop_first_10_odd_sum.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DevJ1003&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DevJ1003/python_basics.git&quot;,
+    &quot;accountId&quot;: &quot;c602bec2-73c4-4633-858e-5418d1cc9b68&quot;
+  }
+}</component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="33MnuHEjeTMvIhAA0kYv12FaV8O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.are_of_square.executor": "Run",
+    "Python.array_sort.executor": "Run",
+    "Python.ascii.executor": "Run",
+    "Python.circle_area_circumference.executor": "Run",
+    "Python.creation.executor": "Run",
+    "Python.dict_problems.executor": "Run",
+    "Python.even_odd.executor": "Run",
+    "Python.factorial.executor": "Run",
+    "Python.fibonacci_series.executor": "Run",
+    "Python.first.executor": "Run",
+    "Python.for_loop_10_1_series.cpp.executor": "Run",
+    "Python.for_loop_1_10_even_add.executor": "Run",
+    "Python.for_loop_1_10_even_digit.executor": "Run",
+    "Python.for_loop_1_10_series.executor": "Run",
+    "Python.for_loop_1_to_N_sum.executor": "Run",
+    "Python.for_loop_digit_and_square.executor": "Run",
+    "Python.for_loop_nested.executor": "Run",
+    "Python.for_loop_patter4.executor": "Run",
+    "Python.for_loop_pattern.executor": "Run",
+    "Python.for_loop_pattern2.executor": "Run",
+    "Python.for_loop_pattern3.executor": "Run",
+    "Python.for_loop_pattern5.executor": "Run",
+    "Python.if-else.executor": "Run",
+    "Python.lambda_anonymous.executor": "Run",
+    "Python.list_problems.executor": "Run",
+    "Python.nested_loop_shopping_app.executor": "Run",
+    "Python.prime.executor": "Run",
+    "Python.recursion_func.executor": "Run",
+    "Python.rfind_rindex.executor": "Run",
+    "Python.sets_problems.executor": "Run",
+    "Python.string_isalnum.executor": "Run",
+    "Python.string_slice.executor": "Run",
+    "Python.table.executor": "Run",
+    "Python.while_1_5.executor": "Run",
+    "Python.while_loop_first_10_odd_sum.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-PY-252.26199.168" />
+        <option value="bundled-python-sdk-b3d66beaba9a-c6efb3732140-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26199.168" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa2ba293-96cd-4f14-a1bd-27ea0dece816" name="Changes" comment="" />
+      <created>1759136030110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759136030110</updated>
+      <workItem from="1759136031185" duration="8129000" />
+      <workItem from="1759224626847" duration="9662000" />
+      <workItem from="1759839655677" duration="3120000" />
+      <workItem from="1759920996371" duration="606000" />
+      <workItem from="1760017692038" duration="4990000" />
+      <workItem from="1760271624423" duration="2490000" />
+      <workItem from="1760349498805" duration="515000" />
+      <workItem from="1760523178265" duration="229000" />
+      <workItem from="1760523425560" duration="3985000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/py_da$even_odd.coverage" NAME="even_odd Coverage Results" MODIFIED="1759150129455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py_da$for_loop_1_to_N_sum.coverage" NAME="for_loop_1_to_N_sum Coverage Results" MODIFIED="1759163487510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py_da$recursion_func.coverage" NAME="recursion_func Coverage Results" MODIFIED="1760288031448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py_da$for_loop_pattern5.coverage" NAME="for_loop_pattern5 Coverage Results" MODIFIED="1759230293376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py_da$fibonacci_series.coverage" NAME="fibonacci_series Coverage Results" MODIFIED="1759843038719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py_da$circle_area_circumference.coverage" NAME="circle_area_circumference Coverage Results" MODIFIED="1759149805733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py_da$list_problems.coverage" NAME="list_problems Coverage Results" MODIFIED="1760029012743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py_da$array_sort.coverage" NAME="array_sort Coverage Results" MODIFIED="1760528383239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/numpy_course" />
+    <SUITE FILE_PATH="coverage/py_da$for_loop_1_10_even_digit.coverage" NAME="for_loop_1_10_even_digit Coverage Results" MODIFIED="1759162667544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py_da$table.coverage" NAME="table Coverage Results" MODIFIED="1759148899797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py_da$first.coverage" NAME="first Coverage Results" MODIFIED="1759141702560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py_da$for_loop_pattern2.coverage" NAME="for_loop_pattern2 Coverage Results" MODIFIED="1759229062412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py_da$while_1_5.coverage" NAME="while_1_5 Coverage Results" MODIFIED="1759161517346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py_da$for_loop_1_10_even_add.coverage" NAME="for_loop_1_10_even_add Coverage Results" MODIFIED="1759162243867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py_da$for_loop_pattern.coverage" NAME="for_loop_pattern Coverage Results" MODIFIED="1759228762274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py_da$rfind_rindex.coverage" NAME="rfind_rindex Coverage Results" MODIFIED="1759251092295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py_da$while_loop_first_10_odd_sum.coverage" NAME="while_loop_first_10_odd_sum Coverage Results" MODIFIED="1759227399041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py_da$ascii.coverage" NAME="ascii Coverage Results" MODIFIED="1759149993529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py_da$for_loop_nested.coverage" NAME="for_loop_nested Coverage Results" MODIFIED="1759226159087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py_da$sets_problems.coverage" NAME="sets_problems Coverage Results" MODIFIED="1760031719689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py_da$string_slice.coverage" NAME="string_slice Coverage Results" MODIFIED="1759842286338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py_da$for_loop_10_1_series_cpp.coverage" NAME="for_loop_10_1_series.cpp Coverage Results" MODIFIED="1759162611481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py_da$for_loop_pattern3.coverage" NAME="for_loop_pattern3 Coverage Results" MODIFIED="1759229826038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py_da$creation.coverage" NAME="creation Coverage Results" MODIFIED="1760524510744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/numpy_course" />
+    <SUITE FILE_PATH="coverage/py_da$are_of_square.coverage" NAME="are_of_square Coverage Results" MODIFIED="1759149600146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py_da$string_isalnum.coverage" NAME="string_isalnum Coverage Results" MODIFIED="1759235037987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py_da$if_else.coverage" NAME="if-else Coverage Results" MODIFIED="1759148639826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py_da$for_loop_patter4.coverage" NAME="for_loop_patter4 Coverage Results" MODIFIED="1759229983616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py_da$for_loop_1_10_series.coverage" NAME="for_loop_1_10_series Coverage Results" MODIFIED="1759161712530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py_da$lambda_anonymous.coverage" NAME="lambda_anonymous Coverage Results" MODIFIED="1760288382183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py_da$prime.coverage" NAME="prime Coverage Results" MODIFIED="1759149485287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py_da$factorial.coverage" NAME="factorial Coverage Results" MODIFIED="1759150250772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py_da$for_loop_digit_and_square.coverage" NAME="for_loop_digit_and_square Coverage Results" MODIFIED="1759227027998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py_da$nested_loop_shopping_app.coverage" NAME="nested_loop_shopping_app Coverage Results" MODIFIED="1759228349881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py_da$dict_problems.coverage" NAME="dict_problems Coverage Results" MODIFIED="1760031199713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
